@@ -6,8 +6,16 @@ CREATE TABLE sports (
     `Total Earnings` DECIMAL(10, 2)
 );
 
+
+
+
 INSERT INTO sports (`Player`, `Sport`, `Total Earnings`)
 VALUES
+    
+    
+    
+    
+    
     ('Tom Brady', 'American Football', 280000000.00),
     ('LeBron James', 'Basketball', 420000000.00),
     ('Mike Trout', 'Baseball', 400000000.00),
